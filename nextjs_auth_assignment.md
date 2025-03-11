@@ -1,6 +1,3 @@
-Below is a detailed mini practice assignment designed to give you hands‐on experience with Next.js 15 and NextAuth, focusing on both authentication and multi-role authorization in a real-world scenario.
-
----
 
 ## Assignment: Event Management System
 
