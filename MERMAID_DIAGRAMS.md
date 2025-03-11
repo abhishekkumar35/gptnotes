@@ -1,7 +1,6 @@
 
 Authentication Authorisation Flow of Mini Nextjs Application "Event Management"
-mermaid
-```
+```mermaid
 flowchart TD
     %% User entry point
     A[User Access Application]
