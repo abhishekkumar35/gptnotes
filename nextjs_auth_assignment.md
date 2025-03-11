@@ -1,4 +1,4 @@
-####Mini Assignment(takes 12-16 hours)
+###Mini Assignment(takes 12-16 hours)
 ## Assignment: Event Management System
 
 ### Overview
