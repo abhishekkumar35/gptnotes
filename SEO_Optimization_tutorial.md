@@ -1,11 +1,11 @@
-```
- analytics.google.com for get measurement id i.e GA4 ID starts with 'G-'
- Get your Google verification ID:
+
+analytics.google.com for get measurement id i.e GA4 ID starts with 'G-'
+Get your Google verification ID:
 Go to Google Search Console(https://search.google.com/search-console)
 Add your website URL
 When asked to verify ownership, choose the "HTML tag" verification method
 Google will provide a meta tag that looks like: <meta name="google-site-verification" content="VERIFICATION_ID_HERE">
-The string in the "content" attribute is your verification ID ```
+The string in the "content" attribute is your verification ID 
 
 ## SEO Optimization, Need to check for:
 1. Metadata implementation 
