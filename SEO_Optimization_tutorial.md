@@ -1,4 +1,4 @@
-# need to check for:
+## SEO Optimization, Need to check for:
 1. Metadata implementation 
 2. Semantic HTML structure
 3. Image optimization
