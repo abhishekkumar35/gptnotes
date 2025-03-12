@@ -1,6 +1,6 @@
 ```
-#### @ref analytics.google.com for measurement id i.e GA4 ID starts with 'G-'
-#### @ref Get your Google verification ID:
+ analytics.google.com for get measurement id i.e GA4 ID starts with 'G-'
+ Get your Google verification ID:
 Go to Google Search Console(https://search.google.com/search-console)
 Add your website URL
 When asked to verify ownership, choose the "HTML tag" verification method
