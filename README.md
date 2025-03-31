@@ -8,7 +8,8 @@ model PdfFile {
   fileData Bytes
   name String
   email String
-}```
+}
+```
 
 
 Prisma is an advanced Object-Relational Mapping (ORM) tool that streamlines database interactions in Node.js and TypeScript applications. It offers a robust and type-safe API for performing Create, Read, Update, and Delete (CRUD) operations. Below is a comprehensive cheatsheet detailing Prisma's CRUD methods and their subcomponents.
