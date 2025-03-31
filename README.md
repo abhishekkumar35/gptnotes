@@ -11,6 +11,17 @@ model PdfFile {
 }
 ```
 
+to be used with prisma client, which could be created using **npx prisma generate** after initializing prisma using **npx prisma init**
+after importing prisma client using,
+
+```
+import { PrismaClient } from "@prisma/client"
+const prisma = new PrismaClient()
+//then we could use prisma model by lowercase name of the model defined
+
+await prisma.pdffile.[methods]({})
+```
+
 
 Prisma is an advanced Object-Relational Mapping (ORM) tool that streamlines database interactions in Node.js and TypeScript applications. It offers a robust and type-safe API for performing Create, Read, Update, and Delete (CRUD) operations. Below is a comprehensive cheatsheet detailing Prisma's CRUD methods and their subcomponents.
 
