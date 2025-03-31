@@ -1,4 +1,6 @@
-simple Model, you could add anything email and etc
+
+
+**simple Model**
 model PdfFile {
   id       Int    @id @default(autoincrement())
   fileName String
